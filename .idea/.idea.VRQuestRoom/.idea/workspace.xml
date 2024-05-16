@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9be30cc1-c753-472c-bb68-dfd5ff700477" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit/Runtime/Locomotion/XRBodyTransformer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit/Runtime/Locomotion/LocomotionMediator.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/IState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/BootstrapState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Logic/LoadingCurtain.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/GameStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/LoadLevelState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/GameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/AssetPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/AssetManagement/AssetPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/AssetManagement/IAssetProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/AssetManagement/IAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/AllServices.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Services/PersistentProgress/PersistentProgressService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Services/PersistentProgress/IPersistentProgressService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Services/PersistentProgress/ISavedProgress.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Hero/HeroMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/ISavedLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/LoadProgressState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/SaveLoad/ISavedLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/SaveLoad/SavedLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/WorldData.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/PositionOnLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/SaveLoad/ISaveLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/IService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/AssetManagement/AssetProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/PersistentProgress/ISavedProgress.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/GameBootstrapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/PersistentProgress/PersistentProgressService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Factory/GameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Factory/IGameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/Services/SaveLoad/SaveLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/PlayerProgress.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/DataExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/BootstrapState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/GameStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Infrastructure/States/LoadLevelState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Logic/SaveTrigger.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gCMxT0V6t7c2Uoy8Y0OIqUD299" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.0b13\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\UnityGames\VRQuestRoom -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\UnityGames\VRQuestRoom" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.0b13\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\UnityGames\VRQuestRoom -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\UnityGames\VRQuestRoom" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be30cc1-c753-472c-bb68-dfd5ff700477" name="Changes" comment="" />
+      <created>1715197355054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715197355054</updated>
+      <workItem from="1715197359266" duration="632000" />
+      <workItem from="1715536037757" duration="644000" />
+      <workItem from="1715589702068" duration="7089000" />
+      <workItem from="1715598016909" duration="1712000" />
+      <workItem from="1715619579041" duration="5945000" />
+      <workItem from="1715850604170" duration="13976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="211" key="RiderGenerateDialog" timestamp="1715856554104">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="687" y="211" key="RiderGenerateDialog/-1920.0.1920.1008/0.0.1707.1019@0.0.1707.1019" timestamp="1715856554104" />
+    <state x="687" y="211" key="RiderGenerateDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1715599722944" />
+    <state x="687" y="211" key="RiderGenerateDialog/2560.523.1920.1008/0.0.1707.1019@0.0.1707.1019" timestamp="1715593362030" />
+    <state x="355" y="155" key="SettingsEditor" timestamp="1715594552458">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="355" y="155" key="SettingsEditor/2560.523.1920.1008/0.0.1707.1019@0.0.1707.1019" timestamp="1715594552458" />
+    <state x="439" y="65" width="829" height="888" key="find.popup" timestamp="1715594067799">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="439" y="65" width="829" height="888" key="find.popup/2560.523.1920.1008/0.0.1707.1019@0.0.1707.1019" timestamp="1715594067799" />
+  </component>
+</project>
